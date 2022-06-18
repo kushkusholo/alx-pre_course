@@ -1,1 +1,2 @@
-omly time to commit from github interface
+And only for this task
+only time
